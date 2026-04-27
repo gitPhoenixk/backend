@@ -1,0 +1,6 @@
+requests~=2.33.1
+python-dotenv~=1.2.2
+fastapi~=0.135.3
+PyGithub~=2.9.1
+pydantic~=2.13.0
+starlette~=1.0.0
